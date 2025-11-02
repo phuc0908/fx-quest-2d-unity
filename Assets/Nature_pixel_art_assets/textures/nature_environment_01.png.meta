@@ -439,7 +439,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 48
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -470,7 +470,7 @@ TextureImporter:
     overridden: 0
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: Standalone
     maxTextureSize: 2048
@@ -483,7 +483,7 @@ TextureImporter:
     overridden: 0
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -496,7 +496,7 @@ TextureImporter:
     overridden: 0
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: iOS
     maxTextureSize: 2048
@@ -509,7 +509,7 @@ TextureImporter:
     overridden: 0
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -517,10 +517,10 @@ TextureImporter:
       name: nature_environment_01_0
       rect:
         serializedVersion: 2
-        x: 112
-        y: 336
-        width: 48
-        height: 48
+        x: 111
+        y: 353
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -539,10 +539,10 @@ TextureImporter:
       name: nature_environment_01_1
       rect:
         serializedVersion: 2
-        x: 160
-        y: 336
-        width: 48
-        height: 48
+        x: 143
+        y: 353
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -561,10 +561,10 @@ TextureImporter:
       name: nature_environment_01_2
       rect:
         serializedVersion: 2
-        x: 208
-        y: 336
-        width: 48
-        height: 48
+        x: 175
+        y: 353
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -583,10 +583,10 @@ TextureImporter:
       name: nature_environment_01_3
       rect:
         serializedVersion: 2
-        x: 256
-        y: 336
-        width: 48
-        height: 48
+        x: 207
+        y: 353
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -605,10 +605,10 @@ TextureImporter:
       name: nature_environment_01_4
       rect:
         serializedVersion: 2
-        x: 304
-        y: 336
-        width: 48
-        height: 48
+        x: 239
+        y: 353
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -627,10 +627,10 @@ TextureImporter:
       name: nature_environment_01_5
       rect:
         serializedVersion: 2
-        x: 352
-        y: 336
-        width: 48
-        height: 48
+        x: 271
+        y: 353
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -649,10 +649,10 @@ TextureImporter:
       name: nature_environment_01_6
       rect:
         serializedVersion: 2
-        x: 400
-        y: 336
-        width: 48
-        height: 48
+        x: 303
+        y: 353
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -671,10 +671,10 @@ TextureImporter:
       name: nature_environment_01_7
       rect:
         serializedVersion: 2
-        x: 448
-        y: 336
-        width: 48
-        height: 48
+        x: 335
+        y: 353
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -693,10 +693,10 @@ TextureImporter:
       name: nature_environment_01_8
       rect:
         serializedVersion: 2
-        x: 496
-        y: 336
-        width: 48
-        height: 48
+        x: 367
+        y: 353
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -715,10 +715,10 @@ TextureImporter:
       name: nature_environment_01_9
       rect:
         serializedVersion: 2
-        x: 544
-        y: 336
-        width: 48
-        height: 48
+        x: 399
+        y: 353
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -737,10 +737,10 @@ TextureImporter:
       name: nature_environment_01_10
       rect:
         serializedVersion: 2
-        x: 592
-        y: 336
-        width: 48
-        height: 48
+        x: 431
+        y: 353
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -759,10 +759,10 @@ TextureImporter:
       name: nature_environment_01_11
       rect:
         serializedVersion: 2
-        x: 640
-        y: 336
-        width: 48
-        height: 48
+        x: 463
+        y: 353
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -781,10 +781,10 @@ TextureImporter:
       name: nature_environment_01_12
       rect:
         serializedVersion: 2
-        x: 112
-        y: 288
-        width: 48
-        height: 48
+        x: 495
+        y: 353
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -803,10 +803,10 @@ TextureImporter:
       name: nature_environment_01_13
       rect:
         serializedVersion: 2
-        x: 160
-        y: 288
-        width: 48
-        height: 48
+        x: 527
+        y: 353
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -825,10 +825,10 @@ TextureImporter:
       name: nature_environment_01_14
       rect:
         serializedVersion: 2
-        x: 208
-        y: 288
-        width: 48
-        height: 48
+        x: 559
+        y: 353
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -847,10 +847,10 @@ TextureImporter:
       name: nature_environment_01_15
       rect:
         serializedVersion: 2
-        x: 352
-        y: 288
-        width: 48
-        height: 48
+        x: 591
+        y: 353
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -869,10 +869,10 @@ TextureImporter:
       name: nature_environment_01_16
       rect:
         serializedVersion: 2
-        x: 400
-        y: 288
-        width: 48
-        height: 48
+        x: 623
+        y: 353
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -891,10 +891,10 @@ TextureImporter:
       name: nature_environment_01_17
       rect:
         serializedVersion: 2
-        x: 448
-        y: 288
-        width: 48
-        height: 48
+        x: 655
+        y: 353
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -913,10 +913,10 @@ TextureImporter:
       name: nature_environment_01_18
       rect:
         serializedVersion: 2
-        x: 496
-        y: 288
-        width: 48
-        height: 48
+        x: 687
+        y: 353
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -935,10 +935,10 @@ TextureImporter:
       name: nature_environment_01_19
       rect:
         serializedVersion: 2
-        x: 544
-        y: 288
-        width: 48
-        height: 48
+        x: 111
+        y: 321
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -957,10 +957,10 @@ TextureImporter:
       name: nature_environment_01_20
       rect:
         serializedVersion: 2
-        x: 592
-        y: 288
-        width: 48
-        height: 48
+        x: 143
+        y: 321
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -979,10 +979,10 @@ TextureImporter:
       name: nature_environment_01_21
       rect:
         serializedVersion: 2
-        x: 640
-        y: 288
-        width: 48
-        height: 48
+        x: 175
+        y: 321
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1001,10 +1001,10 @@ TextureImporter:
       name: nature_environment_01_22
       rect:
         serializedVersion: 2
-        x: 16
-        y: 240
-        width: 48
-        height: 48
+        x: 207
+        y: 321
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1023,10 +1023,10 @@ TextureImporter:
       name: nature_environment_01_23
       rect:
         serializedVersion: 2
-        x: 64
-        y: 240
-        width: 48
-        height: 48
+        x: 239
+        y: 321
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1045,10 +1045,10 @@ TextureImporter:
       name: nature_environment_01_24
       rect:
         serializedVersion: 2
-        x: 112
-        y: 240
-        width: 48
-        height: 48
+        x: 271
+        y: 321
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1067,10 +1067,10 @@ TextureImporter:
       name: nature_environment_01_25
       rect:
         serializedVersion: 2
-        x: 160
-        y: 240
-        width: 48
-        height: 48
+        x: 303
+        y: 321
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1089,10 +1089,10 @@ TextureImporter:
       name: nature_environment_01_26
       rect:
         serializedVersion: 2
-        x: 208
-        y: 240
-        width: 48
-        height: 48
+        x: 335
+        y: 321
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1111,10 +1111,10 @@ TextureImporter:
       name: nature_environment_01_27
       rect:
         serializedVersion: 2
-        x: 256
-        y: 240
-        width: 48
-        height: 48
+        x: 367
+        y: 321
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1133,10 +1133,10 @@ TextureImporter:
       name: nature_environment_01_28
       rect:
         serializedVersion: 2
-        x: 304
-        y: 240
-        width: 48
-        height: 48
+        x: 399
+        y: 321
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1155,10 +1155,10 @@ TextureImporter:
       name: nature_environment_01_29
       rect:
         serializedVersion: 2
-        x: 352
-        y: 240
-        width: 48
-        height: 48
+        x: 431
+        y: 321
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1177,10 +1177,10 @@ TextureImporter:
       name: nature_environment_01_30
       rect:
         serializedVersion: 2
-        x: 400
-        y: 240
-        width: 48
-        height: 48
+        x: 463
+        y: 321
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1199,10 +1199,10 @@ TextureImporter:
       name: nature_environment_01_31
       rect:
         serializedVersion: 2
-        x: 448
-        y: 240
-        width: 48
-        height: 48
+        x: 495
+        y: 321
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1221,10 +1221,10 @@ TextureImporter:
       name: nature_environment_01_32
       rect:
         serializedVersion: 2
-        x: 496
-        y: 240
-        width: 48
-        height: 48
+        x: 527
+        y: 321
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1243,10 +1243,10 @@ TextureImporter:
       name: nature_environment_01_33
       rect:
         serializedVersion: 2
-        x: 544
-        y: 240
-        width: 48
-        height: 48
+        x: 559
+        y: 321
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1265,10 +1265,10 @@ TextureImporter:
       name: nature_environment_01_34
       rect:
         serializedVersion: 2
-        x: 592
-        y: 240
-        width: 48
-        height: 48
+        x: 591
+        y: 321
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1287,10 +1287,10 @@ TextureImporter:
       name: nature_environment_01_35
       rect:
         serializedVersion: 2
-        x: 640
-        y: 240
-        width: 48
-        height: 48
+        x: 623
+        y: 321
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1309,10 +1309,10 @@ TextureImporter:
       name: nature_environment_01_36
       rect:
         serializedVersion: 2
-        x: 688
-        y: 240
-        width: 48
-        height: 48
+        x: 655
+        y: 321
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1331,10 +1331,10 @@ TextureImporter:
       name: nature_environment_01_37
       rect:
         serializedVersion: 2
-        x: 736
-        y: 240
-        width: 48
-        height: 48
+        x: 687
+        y: 321
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1353,10 +1353,10 @@ TextureImporter:
       name: nature_environment_01_38
       rect:
         serializedVersion: 2
-        x: 784
-        y: 240
-        width: 48
-        height: 48
+        x: 111
+        y: 289
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1375,10 +1375,10 @@ TextureImporter:
       name: nature_environment_01_39
       rect:
         serializedVersion: 2
-        x: 832
-        y: 240
-        width: 48
-        height: 48
+        x: 143
+        y: 289
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1397,10 +1397,10 @@ TextureImporter:
       name: nature_environment_01_40
       rect:
         serializedVersion: 2
-        x: 880
-        y: 240
-        width: 48
-        height: 48
+        x: 175
+        y: 289
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1419,10 +1419,10 @@ TextureImporter:
       name: nature_environment_01_41
       rect:
         serializedVersion: 2
-        x: 16
-        y: 192
-        width: 48
-        height: 48
+        x: 207
+        y: 289
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1441,10 +1441,10 @@ TextureImporter:
       name: nature_environment_01_42
       rect:
         serializedVersion: 2
-        x: 64
-        y: 192
-        width: 48
-        height: 48
+        x: 239
+        y: 289
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1463,10 +1463,10 @@ TextureImporter:
       name: nature_environment_01_43
       rect:
         serializedVersion: 2
-        x: 112
-        y: 192
-        width: 48
-        height: 48
+        x: 335
+        y: 289
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1485,10 +1485,10 @@ TextureImporter:
       name: nature_environment_01_44
       rect:
         serializedVersion: 2
-        x: 160
-        y: 192
-        width: 48
-        height: 48
+        x: 367
+        y: 289
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1507,10 +1507,10 @@ TextureImporter:
       name: nature_environment_01_45
       rect:
         serializedVersion: 2
-        x: 208
-        y: 192
-        width: 48
-        height: 48
+        x: 399
+        y: 289
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1529,10 +1529,10 @@ TextureImporter:
       name: nature_environment_01_46
       rect:
         serializedVersion: 2
-        x: 256
-        y: 192
-        width: 48
-        height: 48
+        x: 431
+        y: 289
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1551,10 +1551,10 @@ TextureImporter:
       name: nature_environment_01_47
       rect:
         serializedVersion: 2
-        x: 304
-        y: 192
-        width: 48
-        height: 48
+        x: 463
+        y: 289
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1573,10 +1573,10 @@ TextureImporter:
       name: nature_environment_01_48
       rect:
         serializedVersion: 2
-        x: 352
-        y: 192
-        width: 48
-        height: 48
+        x: 495
+        y: 289
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1595,10 +1595,10 @@ TextureImporter:
       name: nature_environment_01_49
       rect:
         serializedVersion: 2
-        x: 400
-        y: 192
-        width: 48
-        height: 48
+        x: 559
+        y: 289
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1617,10 +1617,10 @@ TextureImporter:
       name: nature_environment_01_50
       rect:
         serializedVersion: 2
-        x: 448
-        y: 192
-        width: 48
-        height: 48
+        x: 591
+        y: 289
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1639,10 +1639,10 @@ TextureImporter:
       name: nature_environment_01_51
       rect:
         serializedVersion: 2
-        x: 496
-        y: 192
-        width: 48
-        height: 48
+        x: 623
+        y: 289
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1661,10 +1661,10 @@ TextureImporter:
       name: nature_environment_01_52
       rect:
         serializedVersion: 2
-        x: 544
-        y: 192
-        width: 48
-        height: 48
+        x: 655
+        y: 289
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1683,10 +1683,10 @@ TextureImporter:
       name: nature_environment_01_53
       rect:
         serializedVersion: 2
-        x: 592
-        y: 192
-        width: 48
-        height: 48
+        x: 687
+        y: 289
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1705,10 +1705,10 @@ TextureImporter:
       name: nature_environment_01_54
       rect:
         serializedVersion: 2
-        x: 640
-        y: 192
-        width: 48
-        height: 48
+        x: 15
+        y: 257
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1727,10 +1727,10 @@ TextureImporter:
       name: nature_environment_01_55
       rect:
         serializedVersion: 2
-        x: 688
-        y: 192
-        width: 48
-        height: 48
+        x: 47
+        y: 257
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1749,10 +1749,10 @@ TextureImporter:
       name: nature_environment_01_56
       rect:
         serializedVersion: 2
-        x: 736
-        y: 192
-        width: 48
-        height: 48
+        x: 79
+        y: 257
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1771,10 +1771,10 @@ TextureImporter:
       name: nature_environment_01_57
       rect:
         serializedVersion: 2
-        x: 784
-        y: 192
-        width: 48
-        height: 48
+        x: 111
+        y: 257
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1793,10 +1793,10 @@ TextureImporter:
       name: nature_environment_01_58
       rect:
         serializedVersion: 2
-        x: 832
-        y: 192
-        width: 48
-        height: 48
+        x: 143
+        y: 257
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1815,10 +1815,10 @@ TextureImporter:
       name: nature_environment_01_59
       rect:
         serializedVersion: 2
-        x: 880
-        y: 192
-        width: 48
-        height: 48
+        x: 175
+        y: 257
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1837,10 +1837,10 @@ TextureImporter:
       name: nature_environment_01_60
       rect:
         serializedVersion: 2
-        x: 928
-        y: 192
-        width: 48
-        height: 48
+        x: 207
+        y: 257
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1859,10 +1859,10 @@ TextureImporter:
       name: nature_environment_01_61
       rect:
         serializedVersion: 2
-        x: 976
-        y: 192
-        width: 48
-        height: 48
+        x: 239
+        y: 257
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1881,10 +1881,10 @@ TextureImporter:
       name: nature_environment_01_62
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 192
-        width: 48
-        height: 48
+        x: 271
+        y: 257
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1903,10 +1903,10 @@ TextureImporter:
       name: nature_environment_01_63
       rect:
         serializedVersion: 2
-        x: 16
-        y: 144
-        width: 48
-        height: 48
+        x: 303
+        y: 257
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1925,10 +1925,10 @@ TextureImporter:
       name: nature_environment_01_64
       rect:
         serializedVersion: 2
-        x: 64
-        y: 144
-        width: 48
-        height: 48
+        x: 335
+        y: 257
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1947,10 +1947,10 @@ TextureImporter:
       name: nature_environment_01_65
       rect:
         serializedVersion: 2
-        x: 112
-        y: 144
-        width: 48
-        height: 48
+        x: 367
+        y: 257
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1969,10 +1969,10 @@ TextureImporter:
       name: nature_environment_01_66
       rect:
         serializedVersion: 2
-        x: 160
-        y: 144
-        width: 48
-        height: 48
+        x: 399
+        y: 257
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1991,10 +1991,10 @@ TextureImporter:
       name: nature_environment_01_67
       rect:
         serializedVersion: 2
-        x: 208
-        y: 144
-        width: 48
-        height: 48
+        x: 431
+        y: 257
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2013,10 +2013,10 @@ TextureImporter:
       name: nature_environment_01_68
       rect:
         serializedVersion: 2
-        x: 256
-        y: 144
-        width: 48
-        height: 48
+        x: 463
+        y: 257
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2035,10 +2035,10 @@ TextureImporter:
       name: nature_environment_01_69
       rect:
         serializedVersion: 2
-        x: 304
-        y: 144
-        width: 48
-        height: 48
+        x: 495
+        y: 257
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2057,10 +2057,10 @@ TextureImporter:
       name: nature_environment_01_70
       rect:
         serializedVersion: 2
-        x: 352
-        y: 144
-        width: 48
-        height: 48
+        x: 527
+        y: 257
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2079,10 +2079,10 @@ TextureImporter:
       name: nature_environment_01_71
       rect:
         serializedVersion: 2
-        x: 400
-        y: 144
-        width: 48
-        height: 48
+        x: 559
+        y: 257
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2101,10 +2101,10 @@ TextureImporter:
       name: nature_environment_01_72
       rect:
         serializedVersion: 2
-        x: 448
-        y: 144
-        width: 48
-        height: 48
+        x: 591
+        y: 257
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2123,10 +2123,10 @@ TextureImporter:
       name: nature_environment_01_73
       rect:
         serializedVersion: 2
-        x: 496
-        y: 144
-        width: 48
-        height: 48
+        x: 623
+        y: 257
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2145,10 +2145,10 @@ TextureImporter:
       name: nature_environment_01_74
       rect:
         serializedVersion: 2
-        x: 544
-        y: 144
-        width: 48
-        height: 48
+        x: 655
+        y: 257
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2167,10 +2167,10 @@ TextureImporter:
       name: nature_environment_01_75
       rect:
         serializedVersion: 2
-        x: 592
-        y: 144
-        width: 48
-        height: 48
+        x: 687
+        y: 257
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2189,10 +2189,10 @@ TextureImporter:
       name: nature_environment_01_76
       rect:
         serializedVersion: 2
-        x: 640
-        y: 144
-        width: 48
-        height: 48
+        x: 719
+        y: 257
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2211,10 +2211,10 @@ TextureImporter:
       name: nature_environment_01_77
       rect:
         serializedVersion: 2
-        x: 688
-        y: 144
-        width: 48
-        height: 48
+        x: 751
+        y: 257
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2233,10 +2233,10 @@ TextureImporter:
       name: nature_environment_01_78
       rect:
         serializedVersion: 2
-        x: 736
-        y: 144
-        width: 48
-        height: 48
+        x: 783
+        y: 257
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2255,10 +2255,10 @@ TextureImporter:
       name: nature_environment_01_79
       rect:
         serializedVersion: 2
-        x: 784
-        y: 144
-        width: 48
-        height: 48
+        x: 815
+        y: 257
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2277,10 +2277,10 @@ TextureImporter:
       name: nature_environment_01_80
       rect:
         serializedVersion: 2
-        x: 832
-        y: 144
-        width: 48
-        height: 48
+        x: 847
+        y: 257
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2299,10 +2299,10 @@ TextureImporter:
       name: nature_environment_01_81
       rect:
         serializedVersion: 2
-        x: 880
-        y: 144
-        width: 48
-        height: 48
+        x: 879
+        y: 257
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2321,10 +2321,10 @@ TextureImporter:
       name: nature_environment_01_82
       rect:
         serializedVersion: 2
-        x: 928
-        y: 144
-        width: 48
-        height: 48
+        x: 911
+        y: 257
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2343,10 +2343,10 @@ TextureImporter:
       name: nature_environment_01_83
       rect:
         serializedVersion: 2
-        x: 976
-        y: 144
-        width: 48
-        height: 48
+        x: 15
+        y: 225
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2365,10 +2365,10 @@ TextureImporter:
       name: nature_environment_01_84
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 144
-        width: 48
-        height: 48
+        x: 47
+        y: 225
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2387,10 +2387,10 @@ TextureImporter:
       name: nature_environment_01_85
       rect:
         serializedVersion: 2
-        x: 16
-        y: 96
-        width: 48
-        height: 48
+        x: 79
+        y: 225
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2409,10 +2409,10 @@ TextureImporter:
       name: nature_environment_01_86
       rect:
         serializedVersion: 2
-        x: 64
-        y: 96
-        width: 48
-        height: 48
+        x: 111
+        y: 225
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2431,10 +2431,10 @@ TextureImporter:
       name: nature_environment_01_87
       rect:
         serializedVersion: 2
-        x: 112
-        y: 96
-        width: 48
-        height: 48
+        x: 143
+        y: 225
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2453,10 +2453,10 @@ TextureImporter:
       name: nature_environment_01_88
       rect:
         serializedVersion: 2
-        x: 160
-        y: 96
-        width: 48
-        height: 48
+        x: 175
+        y: 225
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2475,10 +2475,10 @@ TextureImporter:
       name: nature_environment_01_89
       rect:
         serializedVersion: 2
-        x: 208
-        y: 96
-        width: 48
-        height: 48
+        x: 207
+        y: 225
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2497,10 +2497,10 @@ TextureImporter:
       name: nature_environment_01_90
       rect:
         serializedVersion: 2
-        x: 256
-        y: 96
-        width: 48
-        height: 48
+        x: 239
+        y: 225
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2519,10 +2519,10 @@ TextureImporter:
       name: nature_environment_01_91
       rect:
         serializedVersion: 2
-        x: 304
-        y: 96
-        width: 48
-        height: 48
+        x: 271
+        y: 225
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2541,10 +2541,10 @@ TextureImporter:
       name: nature_environment_01_92
       rect:
         serializedVersion: 2
-        x: 352
-        y: 96
-        width: 48
-        height: 48
+        x: 303
+        y: 225
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2563,10 +2563,10 @@ TextureImporter:
       name: nature_environment_01_93
       rect:
         serializedVersion: 2
-        x: 400
-        y: 96
-        width: 48
-        height: 48
+        x: 335
+        y: 225
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2585,10 +2585,10 @@ TextureImporter:
       name: nature_environment_01_94
       rect:
         serializedVersion: 2
-        x: 448
-        y: 96
-        width: 48
-        height: 48
+        x: 367
+        y: 225
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2607,10 +2607,10 @@ TextureImporter:
       name: nature_environment_01_95
       rect:
         serializedVersion: 2
-        x: 496
-        y: 96
-        width: 48
-        height: 48
+        x: 399
+        y: 225
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2629,10 +2629,10 @@ TextureImporter:
       name: nature_environment_01_96
       rect:
         serializedVersion: 2
-        x: 544
-        y: 96
-        width: 48
-        height: 48
+        x: 431
+        y: 225
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2651,10 +2651,10 @@ TextureImporter:
       name: nature_environment_01_97
       rect:
         serializedVersion: 2
-        x: 592
-        y: 96
-        width: 48
-        height: 48
+        x: 463
+        y: 225
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2673,10 +2673,10 @@ TextureImporter:
       name: nature_environment_01_98
       rect:
         serializedVersion: 2
-        x: 640
-        y: 96
-        width: 48
-        height: 48
+        x: 495
+        y: 225
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2695,10 +2695,10 @@ TextureImporter:
       name: nature_environment_01_99
       rect:
         serializedVersion: 2
-        x: 688
-        y: 96
-        width: 48
-        height: 48
+        x: 527
+        y: 225
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2717,10 +2717,10 @@ TextureImporter:
       name: nature_environment_01_100
       rect:
         serializedVersion: 2
-        x: 736
-        y: 96
-        width: 48
-        height: 48
+        x: 559
+        y: 225
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2739,10 +2739,10 @@ TextureImporter:
       name: nature_environment_01_101
       rect:
         serializedVersion: 2
-        x: 784
-        y: 96
-        width: 48
-        height: 48
+        x: 591
+        y: 225
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2761,10 +2761,10 @@ TextureImporter:
       name: nature_environment_01_102
       rect:
         serializedVersion: 2
-        x: 832
-        y: 96
-        width: 48
-        height: 48
+        x: 623
+        y: 225
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2783,10 +2783,10 @@ TextureImporter:
       name: nature_environment_01_103
       rect:
         serializedVersion: 2
-        x: 880
-        y: 96
-        width: 48
-        height: 48
+        x: 655
+        y: 225
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2805,10 +2805,10 @@ TextureImporter:
       name: nature_environment_01_104
       rect:
         serializedVersion: 2
-        x: 928
-        y: 96
-        width: 48
-        height: 48
+        x: 687
+        y: 225
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2827,10 +2827,10 @@ TextureImporter:
       name: nature_environment_01_105
       rect:
         serializedVersion: 2
-        x: 976
-        y: 96
-        width: 48
-        height: 48
+        x: 719
+        y: 225
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2849,10 +2849,10 @@ TextureImporter:
       name: nature_environment_01_106
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 96
-        width: 48
-        height: 48
+        x: 751
+        y: 225
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2871,10 +2871,10 @@ TextureImporter:
       name: nature_environment_01_107
       rect:
         serializedVersion: 2
-        x: 16
-        y: 48
-        width: 48
-        height: 48
+        x: 783
+        y: 225
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2893,10 +2893,10 @@ TextureImporter:
       name: nature_environment_01_108
       rect:
         serializedVersion: 2
-        x: 64
-        y: 48
-        width: 48
-        height: 48
+        x: 815
+        y: 225
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2915,10 +2915,10 @@ TextureImporter:
       name: nature_environment_01_109
       rect:
         serializedVersion: 2
-        x: 112
-        y: 48
-        width: 48
-        height: 48
+        x: 847
+        y: 225
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2937,10 +2937,10 @@ TextureImporter:
       name: nature_environment_01_110
       rect:
         serializedVersion: 2
-        x: 160
-        y: 48
-        width: 48
-        height: 48
+        x: 879
+        y: 225
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2959,10 +2959,10 @@ TextureImporter:
       name: nature_environment_01_111
       rect:
         serializedVersion: 2
-        x: 208
-        y: 48
-        width: 48
-        height: 48
+        x: 911
+        y: 225
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2981,10 +2981,10 @@ TextureImporter:
       name: nature_environment_01_112
       rect:
         serializedVersion: 2
-        x: 256
-        y: 48
-        width: 48
-        height: 48
+        x: 943
+        y: 225
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3003,10 +3003,10 @@ TextureImporter:
       name: nature_environment_01_113
       rect:
         serializedVersion: 2
-        x: 304
-        y: 48
-        width: 48
-        height: 48
+        x: 975
+        y: 225
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3025,10 +3025,10 @@ TextureImporter:
       name: nature_environment_01_114
       rect:
         serializedVersion: 2
-        x: 352
-        y: 48
-        width: 48
-        height: 48
+        x: 1007
+        y: 225
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3047,10 +3047,10 @@ TextureImporter:
       name: nature_environment_01_115
       rect:
         serializedVersion: 2
-        x: 400
-        y: 48
-        width: 48
-        height: 48
+        x: 1039
+        y: 225
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3069,10 +3069,10 @@ TextureImporter:
       name: nature_environment_01_116
       rect:
         serializedVersion: 2
-        x: 448
-        y: 48
-        width: 48
-        height: 48
+        x: 15
+        y: 193
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3091,10 +3091,10 @@ TextureImporter:
       name: nature_environment_01_117
       rect:
         serializedVersion: 2
-        x: 496
-        y: 48
-        width: 48
-        height: 48
+        x: 47
+        y: 193
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3113,10 +3113,10 @@ TextureImporter:
       name: nature_environment_01_118
       rect:
         serializedVersion: 2
-        x: 544
-        y: 48
-        width: 48
-        height: 48
+        x: 79
+        y: 193
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3135,10 +3135,10 @@ TextureImporter:
       name: nature_environment_01_119
       rect:
         serializedVersion: 2
-        x: 592
-        y: 48
-        width: 48
-        height: 48
+        x: 111
+        y: 193
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3157,10 +3157,10 @@ TextureImporter:
       name: nature_environment_01_120
       rect:
         serializedVersion: 2
-        x: 640
-        y: 48
-        width: 48
-        height: 48
+        x: 143
+        y: 193
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3179,10 +3179,10 @@ TextureImporter:
       name: nature_environment_01_121
       rect:
         serializedVersion: 2
-        x: 688
-        y: 48
-        width: 48
-        height: 48
+        x: 175
+        y: 193
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3201,10 +3201,10 @@ TextureImporter:
       name: nature_environment_01_122
       rect:
         serializedVersion: 2
-        x: 736
-        y: 48
-        width: 48
-        height: 48
+        x: 207
+        y: 193
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3223,10 +3223,10 @@ TextureImporter:
       name: nature_environment_01_123
       rect:
         serializedVersion: 2
-        x: 784
-        y: 48
-        width: 48
-        height: 48
+        x: 239
+        y: 193
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3245,10 +3245,10 @@ TextureImporter:
       name: nature_environment_01_124
       rect:
         serializedVersion: 2
-        x: 832
-        y: 48
-        width: 48
-        height: 48
+        x: 271
+        y: 193
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3267,10 +3267,10 @@ TextureImporter:
       name: nature_environment_01_125
       rect:
         serializedVersion: 2
-        x: 880
-        y: 48
-        width: 48
-        height: 48
+        x: 303
+        y: 193
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3289,10 +3289,10 @@ TextureImporter:
       name: nature_environment_01_126
       rect:
         serializedVersion: 2
-        x: 928
-        y: 48
-        width: 48
-        height: 48
+        x: 335
+        y: 193
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3311,10 +3311,10 @@ TextureImporter:
       name: nature_environment_01_127
       rect:
         serializedVersion: 2
-        x: 976
-        y: 48
-        width: 48
-        height: 48
+        x: 367
+        y: 193
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3325,6 +3325,4076 @@ TextureImporter:
       bones: []
       spriteID: 48dbcdb958094874fa32fb89a691fa47
       internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_128
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1177b29a5a7444f87ab9567f0b3400
+      internalID: -1143884328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_129
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad9c4f199e33b14799ada8066940f35
+      internalID: 1242911721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_130
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17eb29f68c631f41b0e777a1f380390
+      internalID: 1197997739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_131
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffade4af0fbfce4492f9d45e395ee0a
+      internalID: -761986491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_132
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f337804bcf0d0a4abc8f430af3770ef
+      internalID: -2030324444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_133
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17517becd9679cc49a4303d3e7813faf
+      internalID: 687371787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_134
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34af4976e0765649aa4ca17c08a1bba
+      internalID: 766928195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_135
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90b647b61b400c49b83e69db191048c
+      internalID: -1836934706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_136
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cf9a09cf2722347acc4d62b55305e8
+      internalID: 688288780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_137
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be09ad6979d76246b83efe593a414af
+      internalID: 2081354708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_138
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838f7bcadcd5d6e4995e202aa87e88f9
+      internalID: 478466530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_139
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bce53aad46c7f84198a53c27b66587b
+      internalID: 2127693914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_140
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06ee04fa121571488567addab3d9eaa
+      internalID: -2045570689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_141
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e1a85c09be93f4fa414facd8ba25d0
+      internalID: 958603005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_142
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ffb28abf0ba0c48aa9c2859368ed04
+      internalID: -1845689591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_143
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98926c09f02f12542a00f288ba59d615
+      internalID: 600235771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_144
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4799399ddd2744e8f1d44a6c3fc0af
+      internalID: 1332490717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_145
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a490a754a74ef45a969f5cf08f7af1
+      internalID: -1275065112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_146
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28e044274b69b4429b4c1424d8dbf54
+      internalID: -222226659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_147
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98ec940e10d5c84ba84383fd38462e9
+      internalID: -1844089107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_148
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f89a2a9fecad834680258bda7d8ee8e
+      internalID: 363350982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_149
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce01e540692621428d67d496194da86
+      internalID: -1630270376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_150
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99a3fb18e6addc41be318714ba84a14
+      internalID: -1764555320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_151
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb33b34795b3492458dfd9ca6fd7c383
+      internalID: 1633758344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_152
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3014a50747593f54e9b50a7e1c24eda4
+      internalID: 120923348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_153
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae82b12939788794c87e0a55d4d4a339
+      internalID: -1412734928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_154
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bf3efb7e02d4c4894a630cb41147a6
+      internalID: 2005813227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_155
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613b31b6399aae64e87a9c722cd4492e
+      internalID: -52549447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_156
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba50b6369817d2449b93841f3f99059
+      internalID: -2005157390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_157
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad523e9f4816054b96c9cb2d707d789
+      internalID: 1225923718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_158
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abf0ede5a3cacc4c9b373b9ba5b3908
+      internalID: -1548609659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_159
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7db3b9c6dbe32340bda56771298d516
+      internalID: -1655977344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_160
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd2de7c6d00e8c4ca8778902f76e252
+      internalID: 2048515814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_161
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c0253d993642848a4c898e6a929d1c
+      internalID: -1337965221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_162
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8371f0e3817219f479557a9d0546228d
+      internalID: -344095557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_163
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd465f03d8b6e545a0c93a2e6c246f5
+      internalID: -339311693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_164
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9244c64ca45363644bc1f21991ccf31b
+      internalID: 1038668450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_165
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c2ea6d8588ab545b23f4e596c5b44f
+      internalID: -860474448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_166
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e263b082aa1be2a409db7af592486920
+      internalID: -377176699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_167
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcf9c2611757e3498df70b702e0e3a3
+      internalID: -1058229637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_168
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b1c1307362204418cad0bfc5bb09af
+      internalID: 104137331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_169
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f249e91172faa43bcded79a1a50036
+      internalID: 2101724970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_170
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648ebccabe925ca4e9145805d39eb853
+      internalID: -1608987506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_171
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed17a34d5c035843a505f4e65a498a9
+      internalID: 1975597128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_172
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ce882d4a144c444bf7d09cf62f9b70
+      internalID: 12648123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_173
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c303a05ec82e743b58348e8fb692a0
+      internalID: -740232292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_174
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c873a823e571e43af41ab3d7653c1a
+      internalID: -1485266742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_175
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4637912fbe5cd5e428ee248123c78736
+      internalID: 892481935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_176
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5f61a33c549884f801d938da4f6ae7
+      internalID: -1743565327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_177
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2420b9bb2c11a364c801bd31c586697b
+      internalID: -998301448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_178
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dc9093a1fe60545a0bd5db7379c1be
+      internalID: 1010387383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_179
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98801b13ac9a1943a76845853bcdaa6
+      internalID: -1218521037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_180
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4b2fff9732ecb45a45e510d97d0f1e
+      internalID: -529825652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_181
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9aa727581950d4fa7be1c40bcd3a26
+      internalID: -1288194366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_182
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7d9bdd48b1cec4a97cd8ffc842bff7
+      internalID: 2043498188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_183
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1d8b91ab186e44793f313090f7d216
+      internalID: 1098829524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_184
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ae459b27c8226448273525f1a0dc77
+      internalID: 613418963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_185
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c334939169407fc4286bdedaa4a407ba
+      internalID: 530284122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_186
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95e059f74c0a334988f38c88c176dbb
+      internalID: 1973132971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_187
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9ed9c8f24d71c47b28261f5466936b
+      internalID: -788071026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_188
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f572f7b353e69904688fc17a7f770765
+      internalID: -1031887489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_189
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec177c557591a646bd84bf495db69d7
+      internalID: 800594596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_190
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcfcfc6980c72f4791a78b9905fcb5f
+      internalID: 1077746443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_191
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8ad93bbe9c4bb448580711a9c80afb
+      internalID: 64567703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_192
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9759cb8d11eee0a4bbd32e929fcf052d
+      internalID: -1237709206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_193
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb429f98b8fbd374ca92c3a0fddcdd02
+      internalID: 1452661332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_194
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa821ed258ef33049bc2742f7aa5ef82
+      internalID: -1548736643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_195
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd155852b4169142984b53a8adf25c8
+      internalID: 2122805681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_196
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000d689af755f1f4b90b9a7f808ec3a7
+      internalID: 311720512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_197
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155a5ca4128cf8146810afa96633643b
+      internalID: 1703738596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_198
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda88c3df5f5fd344af1611b5ffff585
+      internalID: -1202207198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_199
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2eaa141682755149a7dc1c540a7a11b
+      internalID: 16861789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_200
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c196993be7d13a4a94462bb161eda6c
+      internalID: 1495947064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_201
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fc8b81cf31f8f40a2323364be37726
+      internalID: 326095596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_202
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8474d9b5ec83dd149be263e2bdc42cb6
+      internalID: 1015215344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_203
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff6f2d0de02b7f4a9f99df29b9dd8a8
+      internalID: 2147322582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_204
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8c8dff35e520d4e83a37e60edb1b2a
+      internalID: -1861996256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_205
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20409c808decfbf45ab19f614e668ace
+      internalID: 1791090711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_206
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afbcbe3ef3692f4fb979a64ebafed95
+      internalID: 435869144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_207
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b3e2d427fe0f345aa7a78533403a1b
+      internalID: -2121611870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_208
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f20b57207b74d409632e288ed6a711
+      internalID: 408263156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_209
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5004be326ec4648b8bdb740fbf484e
+      internalID: -305535759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_210
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a4d2f0d2ec92a488c83c1357fbc9e6
+      internalID: -1896470587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_211
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e337b0d2a82a81b47906aa696e995dda
+      internalID: -1091299255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_212
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644a4f46d086fa24e8a135c7670c641d
+      internalID: -1781662877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_213
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0810b32df885f9a429a80121e4e88887
+      internalID: -504394157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_214
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a7c633cde07e243ba6670150068bb1
+      internalID: -1338879834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_215
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d3482cbcdb16b42995214ab604af09
+      internalID: 643247980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_216
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cafd31ae0ee3904582a33276a2e4a0c
+      internalID: 1022910868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_217
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca199856a9122b46aaaa4924b480681
+      internalID: -407386155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_218
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1211ad6c7e26a0e46af4fc4db0bb5925
+      internalID: -943257953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_219
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae70943cf968c249a47f3e0be56ee3f
+      internalID: 1058954694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_220
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4feddd106f40be42bea58bd3b0e1a57
+      internalID: -1005961585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_221
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012364e8e8d26a649ada37289acf5a69
+      internalID: 1674784138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_222
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd71fb707bf0bfe47964564089ffa985
+      internalID: -1729040373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_223
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cc94341649d40499eaf684f31a4077
+      internalID: -1701987266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_224
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3ddee54a806d24fbd99f5014e0c414
+      internalID: 1900949827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_225
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b285a263f56d63d428331eb2b3b79455
+      internalID: 1961426993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_226
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294f3090c2575524cb6ad178ee34a0d1
+      internalID: -1679889052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_227
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c9aebcab67d4247a84146780492a46
+      internalID: 1928272570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_228
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ffee2c0db7c764aa4bddba3319ee41
+      internalID: -677482578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_229
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c51b409be264f54bac57abd8239def0
+      internalID: -1501142924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_230
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a873264d4c38efb48b85bcd6035a373a
+      internalID: 1215032846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_231
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e7668b2f9ad7c4f881820311eb7ba9
+      internalID: -628205570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_232
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8af4ffedf19db4b931dc45b826e249
+      internalID: 964670834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_233
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf4f0e06ef02814b941ad45e7ee1970
+      internalID: -1919927833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_234
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c459552593461f64da3207fd1d28e41a
+      internalID: 626015693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_235
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8931ce01d49a24d4fb2c7a1ada373e00
+      internalID: -341240997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_236
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26a24c9c1ce9404f81fc2c999fa706f
+      internalID: 823933601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_237
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3efc9e00155f7644876435faf838cbd
+      internalID: 1949473288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_238
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4869bcdb292e24fafdb8b7b4ff5fdd
+      internalID: 201243337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_239
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce4c24c85e3d134e9f91a0231890ace
+      internalID: -1511019863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_240
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e7f83dc373e1340bc9ebdbda783986
+      internalID: -1581138197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_241
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465f74f41aab8bd4e87ca3e91f954755
+      internalID: -617093310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_242
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0050a429ab7a8c847b1d73811423a2e7
+      internalID: 1325201088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_243
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead0f04117f2389438a8cf119504debb
+      internalID: 1837589313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_244
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872ed013d7ad24e4dbf3c8536b96edab
+      internalID: 592690650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_245
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658b155bf064247449c79e7f6ad7bed4
+      internalID: -259108781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_246
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bcdcd7832683949b6dd0fc3ea1331d
+      internalID: -1835768294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_247
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e074860fa7d924293b0bfee9d9b2be
+      internalID: -392778541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_248
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb5463965e3de240bd46a645008226e
+      internalID: -911251364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_249
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407f0fb5ff512864c82cbecf5798d2ad
+      internalID: 161983122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_250
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28e53bed7108cd438a86ab8974de8c2
+      internalID: -1036264891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_251
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934080f9e65efa145843442e04fe8034
+      internalID: 1115516738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_252
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bef9ec11302e2c41bb074149e640e29
+      internalID: -26917469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_253
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a115d7d4a7bd1d747965208926869346
+      internalID: 1296763121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_254
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55aba34b8467f9479c2f8c8de5cbc17
+      internalID: 245689617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_255
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f008a76c36f44f248b79ef8b2a8d214c
+      internalID: 1436881818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_256
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae7cd4bb328662498ff66ea1a154cb3
+      internalID: 1878789885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_257
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe307e6af696ac54ea233a4f73bb122b
+      internalID: 1904084605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_258
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c54eddee7ce8ec4ea2fac51f9172586
+      internalID: 1843078063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_259
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b53062ada45d674e92ad0d8474153ed
+      internalID: 871521226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_260
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220695f8d6449f54daf40ad5bf7c1267
+      internalID: 659610357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_261
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d66d8b9c18728e4b92832c99b8faaef
+      internalID: 1514180851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_262
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcbc769ec4a3ea40844aecc1c829553
+      internalID: 1175404994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_263
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5e34891958fe54ea36fc3b1d9a28a1
+      internalID: 1378645163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_264
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de88a77bc412ef34b8519080a83b7660
+      internalID: 1597551112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_265
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb2287fb5a601f48b6630cdb6e75aae
+      internalID: -94589769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_266
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519c3076f2f556d4f99ec2f348ad6570
+      internalID: -276070431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_267
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7504bf69128c04547b5315b5e002f3da
+      internalID: 983543295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_268
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a12536e5a80cb46bea7bb34c90cebd
+      internalID: 1424002833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_269
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8aae37eb64519418ddf59973bb3d29
+      internalID: -917523836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_270
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f641ca0b3e3880048aebd0cfb9a960da
+      internalID: 1971985875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_271
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d979e17bd88bb94aaa1740bec2b6f41
+      internalID: 133345628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_272
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d70c0d5085d02b468c4a8c536b67219
+      internalID: -13388490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_273
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b284fba7e92ac408e178ec6b885201
+      internalID: 1755959136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_274
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5e24a234114b3458d34695fd8a9793
+      internalID: 513601338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_275
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c6fbefb27381f4a9400c60b7465c18
+      internalID: 783419939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_276
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f821ce389912a454fb8bbc186dbadc1a
+      internalID: -420349665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_277
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bf4cc97d2336249883e48ae7cbe61f
+      internalID: 1220891826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_278
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bda907d03b2604aa2577e83b8471b1
+      internalID: -1928489028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_279
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fd19f29c541a44d9c9ab8009e966ab
+      internalID: -2078151272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_280
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6e7747646a20349a2164b556a7536a
+      internalID: -822678928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_281
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06cf3abe3acaac43884712c10e7a4d0
+      internalID: -444179646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_282
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5aa1fcca56a91b4dac441c3dffd79bd
+      internalID: -547618337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_283
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6972b1d4d90e2514599d293262c71255
+      internalID: -686822484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_284
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170dc87cd63fcf74c88d0b8a9a4e8648
+      internalID: 838800709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_285
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873817caa95dc5847a91b97667c6a985
+      internalID: 1274031855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_286
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c1b633a93a2a442b072d390cde681b
+      internalID: -614107416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_287
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9584d6b1f1d724741a190ee1e8e680b8
+      internalID: -332921767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_288
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70075f09a5931e047a90c94dc9ab645a
+      internalID: -1034350786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_289
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3771bd0e7be1af8438169d8b7eb5ca5a
+      internalID: -1555104544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_290
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b55a866624e3847893386d81bf2d1a
+      internalID: -119815106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_291
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5c58aa98e7c444da544459105b26a3
+      internalID: 170008328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_292
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0100f3df350ba7d4dbae97c32b4d0ddf
+      internalID: -548010144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_293
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e8a8c47a3955b4c839cb385ac3a576
+      internalID: 1529440564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_294
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f53e3a0be3f484493369e7ba86ab72
+      internalID: 1047932426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_295
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52acd24e0161dfe448181d60b6b9299a
+      internalID: 886053006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_296
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56889bb678fd0cb41a347402b0bfa401
+      internalID: -1377290360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_297
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e0efb96be6b97449f842b61a1b6ac5
+      internalID: 412153761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_298
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5851d0c1453d6fa4e902cbc4af65d11c
+      internalID: -1280453191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_299
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d898e2c22dd4675479217d0b998efd6b
+      internalID: -1065916271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_300
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f0aa20df88e614998d692142e72620
+      internalID: 1408294809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_301
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddac70b6f620dd646ab9bb53d43821cc
+      internalID: 1384450901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_302
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44670b6e86e2e834fa5b67abd579006b
+      internalID: 1526458426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_303
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d8e52d9dd9e1d43aa75bd1fd25a828
+      internalID: -60569356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_304
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0e8ef3d87d14e44a432f42c728b413
+      internalID: 136247164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_305
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d07fcb46da8d0418badb456c1f60bb
+      internalID: -2081208148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_306
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401a9fdd0b63bf044a462de074192b0d
+      internalID: 854490263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_307
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4ca0e1f63a8ba4f9c3e496cfbc0646
+      internalID: 760919383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_308
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e54f66c5e04d24ea054e45ba666550
+      internalID: -1824938344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_309
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe28f6358dd60fe4ca138386abc7b77e
+      internalID: 1861358541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_310
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367c53650894aaa4d9ac29859f7144c2
+      internalID: -1639508361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_311
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3304a9c6209db5f46aed5a8255864005
+      internalID: 1117396254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nature_environment_01_312
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2544ea141acf014baaecb636d015d09
+      internalID: 446855953
       vertices: []
       indices: 
       edges: []
@@ -3376,27 +7446,212 @@ TextureImporter:
       nature_environment_01_125: 21300250
       nature_environment_01_126: 21300252
       nature_environment_01_127: 21300254
+      nature_environment_01_128: -1143884328
+      nature_environment_01_129: 1242911721
       nature_environment_01_13: 21300026
+      nature_environment_01_130: 1197997739
+      nature_environment_01_131: -761986491
+      nature_environment_01_132: -2030324444
+      nature_environment_01_133: 687371787
+      nature_environment_01_134: 766928195
+      nature_environment_01_135: -1836934706
+      nature_environment_01_136: 688288780
+      nature_environment_01_137: 2081354708
+      nature_environment_01_138: 478466530
+      nature_environment_01_139: 2127693914
       nature_environment_01_14: 21300028
+      nature_environment_01_140: -2045570689
+      nature_environment_01_141: 958603005
+      nature_environment_01_142: -1845689591
+      nature_environment_01_143: 600235771
+      nature_environment_01_144: 1332490717
+      nature_environment_01_145: -1275065112
+      nature_environment_01_146: -222226659
+      nature_environment_01_147: -1844089107
+      nature_environment_01_148: 363350982
+      nature_environment_01_149: -1630270376
       nature_environment_01_15: 21300030
+      nature_environment_01_150: -1764555320
+      nature_environment_01_151: 1633758344
+      nature_environment_01_152: 120923348
+      nature_environment_01_153: -1412734928
+      nature_environment_01_154: 2005813227
+      nature_environment_01_155: -52549447
+      nature_environment_01_156: -2005157390
+      nature_environment_01_157: 1225923718
+      nature_environment_01_158: -1548609659
+      nature_environment_01_159: -1655977344
       nature_environment_01_16: 21300032
+      nature_environment_01_160: 2048515814
+      nature_environment_01_161: -1337965221
+      nature_environment_01_162: -344095557
+      nature_environment_01_163: -339311693
+      nature_environment_01_164: 1038668450
+      nature_environment_01_165: -860474448
+      nature_environment_01_166: -377176699
+      nature_environment_01_167: -1058229637
+      nature_environment_01_168: 104137331
+      nature_environment_01_169: 2101724970
       nature_environment_01_17: 21300034
+      nature_environment_01_170: -1608987506
+      nature_environment_01_171: 1975597128
+      nature_environment_01_172: 12648123
+      nature_environment_01_173: -740232292
+      nature_environment_01_174: -1485266742
+      nature_environment_01_175: 892481935
+      nature_environment_01_176: -1743565327
+      nature_environment_01_177: -998301448
+      nature_environment_01_178: 1010387383
+      nature_environment_01_179: -1218521037
       nature_environment_01_18: 21300036
+      nature_environment_01_180: -529825652
+      nature_environment_01_181: -1288194366
+      nature_environment_01_182: 2043498188
+      nature_environment_01_183: 1098829524
+      nature_environment_01_184: 613418963
+      nature_environment_01_185: 530284122
+      nature_environment_01_186: 1973132971
+      nature_environment_01_187: -788071026
+      nature_environment_01_188: -1031887489
+      nature_environment_01_189: 800594596
       nature_environment_01_19: 21300038
+      nature_environment_01_190: 1077746443
+      nature_environment_01_191: 64567703
+      nature_environment_01_192: -1237709206
+      nature_environment_01_193: 1452661332
+      nature_environment_01_194: -1548736643
+      nature_environment_01_195: 2122805681
+      nature_environment_01_196: 311720512
+      nature_environment_01_197: 1703738596
+      nature_environment_01_198: -1202207198
+      nature_environment_01_199: 16861789
       nature_environment_01_2: 21300004
       nature_environment_01_20: 21300040
+      nature_environment_01_200: 1495947064
+      nature_environment_01_201: 326095596
+      nature_environment_01_202: 1015215344
+      nature_environment_01_203: 2147322582
+      nature_environment_01_204: -1861996256
+      nature_environment_01_205: 1791090711
+      nature_environment_01_206: 435869144
+      nature_environment_01_207: -2121611870
+      nature_environment_01_208: 408263156
+      nature_environment_01_209: -305535759
       nature_environment_01_21: 21300042
+      nature_environment_01_210: -1896470587
+      nature_environment_01_211: -1091299255
+      nature_environment_01_212: -1781662877
+      nature_environment_01_213: -504394157
+      nature_environment_01_214: -1338879834
+      nature_environment_01_215: 643247980
+      nature_environment_01_216: 1022910868
+      nature_environment_01_217: -407386155
+      nature_environment_01_218: -943257953
+      nature_environment_01_219: 1058954694
       nature_environment_01_22: 21300044
+      nature_environment_01_220: -1005961585
+      nature_environment_01_221: 1674784138
+      nature_environment_01_222: -1729040373
+      nature_environment_01_223: -1701987266
+      nature_environment_01_224: 1900949827
+      nature_environment_01_225: 1961426993
+      nature_environment_01_226: -1679889052
+      nature_environment_01_227: 1928272570
+      nature_environment_01_228: -677482578
+      nature_environment_01_229: -1501142924
       nature_environment_01_23: 21300046
+      nature_environment_01_230: 1215032846
+      nature_environment_01_231: -628205570
+      nature_environment_01_232: 964670834
+      nature_environment_01_233: -1919927833
+      nature_environment_01_234: 626015693
+      nature_environment_01_235: -341240997
+      nature_environment_01_236: 823933601
+      nature_environment_01_237: 1949473288
+      nature_environment_01_238: 201243337
+      nature_environment_01_239: -1511019863
       nature_environment_01_24: 21300048
+      nature_environment_01_240: -1581138197
+      nature_environment_01_241: -617093310
+      nature_environment_01_242: 1325201088
+      nature_environment_01_243: 1837589313
+      nature_environment_01_244: 592690650
+      nature_environment_01_245: -259108781
+      nature_environment_01_246: -1835768294
+      nature_environment_01_247: -392778541
+      nature_environment_01_248: -911251364
+      nature_environment_01_249: 161983122
       nature_environment_01_25: 21300050
+      nature_environment_01_250: -1036264891
+      nature_environment_01_251: 1115516738
+      nature_environment_01_252: -26917469
+      nature_environment_01_253: 1296763121
+      nature_environment_01_254: 245689617
+      nature_environment_01_255: 1436881818
+      nature_environment_01_256: 1878789885
+      nature_environment_01_257: 1904084605
+      nature_environment_01_258: 1843078063
+      nature_environment_01_259: 871521226
       nature_environment_01_26: 21300052
+      nature_environment_01_260: 659610357
+      nature_environment_01_261: 1514180851
+      nature_environment_01_262: 1175404994
+      nature_environment_01_263: 1378645163
+      nature_environment_01_264: 1597551112
+      nature_environment_01_265: -94589769
+      nature_environment_01_266: -276070431
+      nature_environment_01_267: 983543295
+      nature_environment_01_268: 1424002833
+      nature_environment_01_269: -917523836
       nature_environment_01_27: 21300054
+      nature_environment_01_270: 1971985875
+      nature_environment_01_271: 133345628
+      nature_environment_01_272: -13388490
+      nature_environment_01_273: 1755959136
+      nature_environment_01_274: 513601338
+      nature_environment_01_275: 783419939
+      nature_environment_01_276: -420349665
+      nature_environment_01_277: 1220891826
+      nature_environment_01_278: -1928489028
+      nature_environment_01_279: -2078151272
       nature_environment_01_28: 21300056
+      nature_environment_01_280: -822678928
+      nature_environment_01_281: -444179646
+      nature_environment_01_282: -547618337
+      nature_environment_01_283: -686822484
+      nature_environment_01_284: 838800709
+      nature_environment_01_285: 1274031855
+      nature_environment_01_286: -614107416
+      nature_environment_01_287: -332921767
+      nature_environment_01_288: -1034350786
+      nature_environment_01_289: -1555104544
       nature_environment_01_29: 21300058
+      nature_environment_01_290: -119815106
+      nature_environment_01_291: 170008328
+      nature_environment_01_292: -548010144
+      nature_environment_01_293: 1529440564
+      nature_environment_01_294: 1047932426
+      nature_environment_01_295: 886053006
+      nature_environment_01_296: -1377290360
+      nature_environment_01_297: 412153761
+      nature_environment_01_298: -1280453191
+      nature_environment_01_299: -1065916271
       nature_environment_01_3: 21300006
       nature_environment_01_30: 21300060
+      nature_environment_01_300: 1408294809
+      nature_environment_01_301: 1384450901
+      nature_environment_01_302: 1526458426
+      nature_environment_01_303: -60569356
+      nature_environment_01_304: 136247164
+      nature_environment_01_305: -2081208148
+      nature_environment_01_306: 854490263
+      nature_environment_01_307: 760919383
+      nature_environment_01_308: -1824938344
+      nature_environment_01_309: 1861358541
       nature_environment_01_31: 21300062
+      nature_environment_01_310: -1639508361
+      nature_environment_01_311: 1117396254
+      nature_environment_01_312: 446855953
       nature_environment_01_32: 21300064
       nature_environment_01_33: 21300066
       nature_environment_01_34: 21300068
