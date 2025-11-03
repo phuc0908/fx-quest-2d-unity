@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Item
+  - Trap
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -19,7 +22,7 @@ TagManager:
   - layer4
   - layer5
   - layer6
-  - 
+  - item
   - 
   - 
   - 
@@ -41,6 +44,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: background
+    uniqueID: 2583445223
+    locked: 0
   - name: layer0
     uniqueID: 4048530411
     locked: 0
@@ -51,16 +57,31 @@ TagManager:
     uniqueID: 640343881
     locked: 0
   - name: layer3
-    uniqueID: 2583445223
+    uniqueID: 2549260131
     locked: 0
   - name: layer4
+    uniqueID: 355375247
+    locked: 0
+  - name: foreground
     uniqueID: 108721793
+    locked: 0
+  - name: Checkpoint
+    uniqueID: 2522451277
+    locked: 0
+  - name: Enemy
+    uniqueID: 982617263
     locked: 0
   - name: Ground
     uniqueID: 3059878399
     locked: 0
   - name: Player
     uniqueID: 1972862093
+    locked: 0
+  - name: item
+    uniqueID: 1660559827
+    locked: 0
+  - name: UI
+    uniqueID: 3894336489
     locked: 0
   m_RenderingLayers:
   - Default

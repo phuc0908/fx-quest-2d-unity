@@ -4,10 +4,12 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     [SerializeField] private float moveSpeed = 5f;
-    [SerializeField] private float jumpForce = 10f;
+    [SerializeField] private float jumpForce = 15f;
     [SerializeField] private LayerMask groundLayer;
     [SerializeField] private Transform groundCheck;
     private Animator animator;
+
+    private GameManager gameManager;
 
     private bool isGrounded;
     private Rigidbody2D rb;
@@ -15,6 +17,7 @@ public class PlayerController : MonoBehaviour
     {
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
+        gameManager = FindAnyObjectByType<GameManager>();
     }
     void Start()
     {
@@ -24,6 +27,7 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (gameManager.IsGameOver() || gameManager.IsGameWin()) return;
         HandleMovement();
         HandleJump();
         UpdateAnimations();
@@ -50,9 +54,6 @@ public class PlayerController : MonoBehaviour
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
         }
-
-        Debug.Log("isGrounded = " + isGrounded);
-
 
     }
 
